@@ -1,6 +1,6 @@
-# Forge 1.18.2 Mods Collection
+# Forge Mods Created by BloodRaid
 
-Welcome to the official repository for my collection of Forge 1.18.2 mods! This project includes a variety of custom mods designed to enhance your Minecraft experience, each bringing unique features and gameplay elements to the game. Below, you will find descriptions and details for each mod in this collection.
+Welcome to the official repository for my Forge mods! This project includes a list of all mods I have created and currently maintain. Each mod brings unique features and gameplay elements to Minecraft, enhancing the game in various ways. Below, you will find descriptions and details for each mod in this collection.
 
 ## Included Mods
 
