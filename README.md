@@ -1,4 +1,4 @@
-# Forge Mods Created by BloodRaid
+# Forge Mods Created by NevioGames
 
 Welcome to the official repository for my Forge mods! This project includes a list of all mods I have created and currently maintain. Each mod brings unique features and gameplay elements to Minecraft, enhancing the game in various ways. Below, you will find descriptions and details for each mod in this collection.
 
@@ -7,8 +7,8 @@ Welcome to the official repository for my Forge mods! This project includes a li
 ### 1. LBAHExtended
 **LBAHExtended** enhances the **LBAH Minecraft Server** experience by introducing a range of unique blocks and features tailored specifically to enhance the feeling of the **LBAH World** by **dagilp_lbh**. This mod provides new building blocks and special decorative elements that add depth and customization options to that world, making it more immersive and engaging for players. The goal of **LBAHExtended** is to bring additional creativity and functionality that seamlessly integrate with the LBAH aesthetic.
 
-### 2. Harry Potter Universe
-**Harry Potter Universe** brings the magic of the Wizarding World to Minecraft. Experience the thrills of spells, potions, and magical creatures inspired by the Harry Potter series. From Hogwarts to magical items, this mod adds a new layer of adventure for all fans of the series.  
+### 2. Harry Potter Univers
+**Harry Potter Universe** brings the magic of the Wizarding World to Minecraft. Experience the thrills of spells, and magical creatures inspired by the Harry Potter series. From Hogwarts to magical items, this mod adds a new layer of adventure for all fans of the series. (The Original Mod was created by **snidget** but i dont have an link to the Old Downloads) 
 **Note**: This mod **requires [GeckoLib](https://curseforge.com/minecraft/mc-mods/geckolib)** to function properly. Please ensure GeckoLib is installed alongside this mod to enable animations and other essential features.
 
 ### 3. Plant Mega Pack
@@ -23,6 +23,10 @@ Welcome to the official repository for my Forge mods! This project includes a li
 ## Usage in Launchers and Modpacks
 
 The use of these mods in third-party launchers or modpacks is **restricted**. You are **not permitted** to include any of these mods in modpacks or launchers without explicit permission from me. If you're interested in adding these mods to your pack or launcher, please reach out for authorization. Unauthorized distribution of these mods is strictly prohibited.
+
+## Permitted Modpacks/Launchers
+
+- [NGLauncher](#)
 
 ## Links to Mods
 
@@ -43,7 +47,7 @@ Each mod is available for individual download or as part of the complete mod col
 
 ## Support
 
-If you encounter any issues or have questions, feel free to open an issue in this repository or reach out via [my support page](#). I'll do my best to assist with any problems related to these mods.
+If you encounter any issues or have questions, feel free to open an issue in this repository. I'll do my best to assist with any problems related to these mods.
 
 ---
 
