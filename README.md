@@ -35,7 +35,7 @@ Each mod is available for individual download or as part of the complete mod col
 - [LBAHExtended](#)
 - [Harry Potter Universe](#)
 - [Plant Mega Pack](#)
-- [ModControl](#)
+- [ModControl](https://github.com/NevioGames/NGMods/releases/tag/modControl)
 - [Big Chat History](https://github.com/NevioGames/NGMods/releases/tag/bch)
 
 ## Installation
