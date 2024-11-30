@@ -23,11 +23,11 @@ Der **Harry Potter Universe Mod** bringt die Magie der Zaubererwelt nach Minecra
 
 ## Verwendung in Launchern und Modpacks
 *1
-Die Verwendung dieser Mods in Drittanbieter-Launchern oder Modpacks ist **eingeschränkt**. Es ist **nicht erlaubt**, diese Mods ohne meine ausdrückliche Genehmigung in Modpacks oder Launchern zu nutzen. Wenn du daran interessiert bist, sie in dein Projekt aufzunehmen, kontaktiere mich bitte, um eine Genehmigung zu erhalten. Eine unbefugte Verbreitung dieser Mods ist strengstens untersagt.
+Die Verwendung dieser Mods in Drittanbieter-Launchern oder Modpacks ist **eingeschränkt**. Es ist **nicht erlaubt**, diese Mods ohne unsere ausdrückliche Genehmigung in Modpacks oder Launchern zu nutzen. Wenn du daran interessiert bist, sie in dein Projekt aufzunehmen, kontaktiere uns bitte, um eine Genehmigung zu erhalten. Eine unbefugte Verbreitung dieser Mods ist strengstens untersagt.
 
 ## Erlaubte Modpacks/Launcher
 
-- [NGLauncher](#)
+- [NGLauncher](https://dagilp.net/mods)
 
 ## Links zu Mods
 
