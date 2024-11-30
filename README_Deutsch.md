@@ -33,9 +33,9 @@ Die Verwendung dieser Mods in Drittanbieter-Launchern oder Modpacks ist **einges
 
 Jeder Mod ist einzeln oder als Teil der kompletten Mod-Sammlung verfügbar:
 
-- [LBAHExtended](#)
-- [Harry Potter Universe](#)
-- [Plant Mega Pack](#)
+- [LBAHExtended](https://github.com/NevioGames/NGMods/releases/tag/lbahExtended)
+- [Harry Potter Universe](https://github.com/NevioGames/NGMods/releases/tag/hpum)
+- [Plant Mega Pack](https://github.com/NevioGames/NGMods/releases/tag/pmp)
 - [ModControl](https://github.com/NevioGames/NGMods/releases/tag/modControl)
 - [Big Chat History](https://github.com/NevioGames/NGMods/releases/tag/bch)
 
