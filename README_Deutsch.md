@@ -6,7 +6,7 @@ Willkommen im offiziellen Repository für unsere Forge-Mods! Diese Liste enthäl
 ## Enthaltene Mods
 
 ### 1. LBAHExtended *1
-**LBAHExtended ** haben wir speziell für den **LBAH-Server** programmiert und haben eine Vielzahl neuer Blöcke und Features hinzugefügt. Die Mod enthält einige neue Baumaterialien und spezielle Dekoelemente. Dieser Mod hat das Ziel, das Erlebnis auf der **Hogwarts-Map** von **dagilp_lbh** noch besser zu machen. Seine Elemente vereinen Kreativität und Funktionalität und lassen sich in die vorhandene LBAH-Ästhetik wunderbar einfügen.
+**LBAHExtended** haben wir speziell für den **LBAH-Server** programmiert und haben eine Vielzahl neuer Blöcke und Features hinzugefügt. Die Mod enthält einige neue Baumaterialien und spezielle Dekoelemente. Dieser Mod hat das Ziel, das Erlebnis auf der **Hogwarts-Map** von **dagilp_lbh** noch besser zu machen. Seine Elemente vereinen Kreativität und Funktionalität und lassen sich in die vorhandene LBAH-Ästhetik wunderbar einfügen.
 
 ### 2. Harry Potter Univers
 Der **Harry Potter Universe Mod** bringt die Magie der Zaubererwelt nach Minecraft. Inspiriert von der Harry-Potter-Reihe findest du von magischen Kreaturen über an Hogwarts angelehnte Dekoelemente bis hin zu verwendbaren Zauberstäben alles, was das Potterhead-Herz erwärmt. Dieser Mod fügt eine neue Ebene an Abenteuer und Kreativität hinzu, in der jeder Fan der Reihe etwas finden kann. (Der Original-Mod wurde von **snidget** erstellt, ein Link zu einem Download dieser Mod ist leider nicht vorhanden). 
@@ -37,7 +37,7 @@ Jeder Mod ist einzeln oder als Teil der kompletten Mod-Sammlung verfügbar:
 - [Harry Potter Universe](#)
 - [Plant Mega Pack](#)
 - [ModControl](#)
-- [Big Chat History](#)
+- [Big Chat History](https://github.com/NevioGames/NGMods/releases/tag/bch)
 
 ## Installation
 
