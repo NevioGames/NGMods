@@ -26,15 +26,15 @@ The use of these mods in third-party launchers or modpacks is **restricted**. Yo
 
 ## Permitted Modpacks/Launchers
 
-- [NGLauncher](#)
+- [NGLauncher](https://dagilp.net/mods)
 
 ## Links to Mods
 
 Each mod is available for individual download or as part of the complete mod collection:
 
-- [LBAHExtended](#)
-- [Harry Potter Universe](#)
-- [Plant Mega Pack](#)
+- [LBAHExtended](https://github.com/NevioGames/NGMods/releases/tag/lbahExtended)
+- [Harry Potter Universe](https://github.com/NevioGames/NGMods/releases/tag/hpum)
+- [Plant Mega Pack](https://github.com/NevioGames/NGMods/releases/tag/pmp)
 - [ModControl](https://github.com/NevioGames/NGMods/releases/tag/modControl)
 - [Big Chat History](https://github.com/NevioGames/NGMods/releases/tag/bch)
 
