@@ -36,7 +36,7 @@ Each mod is available for individual download or as part of the complete mod col
 - [Harry Potter Universe](#)
 - [Plant Mega Pack](#)
 - [ModControl](#)
-- [Big Chat History](#)
+- [Big Chat History](https://github.com/NevioGames/NGMods/releases/tag/bch)
 
 ## Installation
 
