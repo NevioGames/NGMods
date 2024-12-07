@@ -4,7 +4,7 @@ Welcome to the official repository for my Forge mods! This project includes a li
 
 ## Included Mods
 
-### 1. LBAHExtended
+### 1. LBAHExtended *1
 **LBAHExtended** enhances the **LBAH Minecraft Server** experience by introducing a range of unique blocks and features tailored specifically to enhance the feeling of the **LBAH World** by **dagilp_lbh**. This mod provides new building blocks and special decorative elements that add depth and customization options to that world, making it more immersive and engaging for players. The goal of **LBAHExtended** is to bring additional creativity and functionality that seamlessly integrate with the LBAH aesthetic.
 
 ### 2. Harry Potter Univers
@@ -22,7 +22,7 @@ Welcome to the official repository for my Forge mods! This project includes a li
 
 ## Usage in Launchers and Modpacks
 
-The use of these mods in third-party launchers or modpacks is **restricted**. You are **not permitted** to include any of these mods in modpacks or launchers without explicit permission from me. If you're interested in adding these mods to your pack or launcher, please reach out for authorization. Unauthorized distribution of these mods is strictly prohibited.
+*1 The use of these mods in third-party launchers or modpacks is **restricted**. You are **not permitted** to include any of these mods in modpacks or launchers without explicit permission from me. If you're interested in adding these mods to your pack or launcher, please reach out for authorization. Unauthorized distribution of these mods is strictly prohibited.
 
 ## Permitted Modpacks/Launchers
 
